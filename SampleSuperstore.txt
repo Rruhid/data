@@ -81,9 +81,9 @@ Standard Class	Corporate	United States	Gilbert	Illinois  l	85234	West	Office Sup
 Standard Class	Consumer	United States	Memphis	Michigan  s	38109	South	Furniture	Chairs	831.936	8	0.2	-114.3912
 Standard Class	Consumer	United States	Los Angeles	California s	90032	West	Furnitue	Tables	1706.184	9	0.2	85.3092
 Standard Class	Home Office	United States	Houston	Texas  s	77041	Central	Office Supplies	Envelopes	113.328	9	0.2	35.415
-				California a								
 												
-Standard Class	Consumer	United States	San Francisco		94122	West	Office Supplies	Storage	21.39	1	0	6.2031
+												
+Standard Class	Consumer	United States	San Francisco	California a	94122	West	Office Supplies	Storage	21.39	1	0	6.2031
 Standard Class	Corporate	United States	Durham	California s	27707	South	Office Supplies	Envelopes	200.984	7	0.2	62.8075
 First Class	Home Office	United States	Chicago	North Carolina s	60623	Central	Office Supplies	Storage	230.376	3	0.2	-48.9549
 Second Class	Consumer	United States	Columbia	Illinois s	29203	South	Furniture	Chairs	301.96	2	0	33.2156
@@ -261,7 +261,7 @@ Standard Class	Corporate	United States	Chicago	Illinois s	60623	Central	Office S
 Standard Class	Corporate	United States	Chicago	Illinois s	60623	Central	Technology	Phones	647.904	6	0.2	56.6916
 Second Class	Consumer	United States	New York City	Illinois s	10009	East	Technology	Accessories	20.37	3	0	6.9258
 Second Class	Consumer	United States	New York City	New York s	10009	East	Office Supplies	Storage	221.55	3	0	6.6465
-				New York s								
+				 								
 												
 												
 												
